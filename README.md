@@ -1,5 +1,13 @@
 # CMI_VoiceAnalysis
-CMI_VoiceAnalysis
+
+Updated on April 26, 2019
+
+1. The speaker diarization has been already realized using VB-Diarization on docker.
+
+2. Changed the function to real-time recording and transcribing speech to text using 'speech_recognize' package.
+
+==================================================================================================================
+Posted on Mar 15, 2019
 
 Currently, there are two parts.
 
